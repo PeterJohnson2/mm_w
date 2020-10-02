@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/PeterJohnson2/mm_w/issues"
   },
-  "homepage": "https://github.com/PeterJohnson2/mm_w#readme"
+  "homepage": "https://github.com/PeterJohnson2/mm_w#readme",
+  "dependencies": {
+    "mm_a": "github:PeterJohnson2/mm_a#1.0.2"
+  }
 }
